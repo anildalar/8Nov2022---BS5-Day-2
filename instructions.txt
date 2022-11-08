@@ -1,0 +1,6 @@
+CDN = Content Delivery Network
+
+Rows are parent
+Cols are childrens
+
+In BS never give the width
